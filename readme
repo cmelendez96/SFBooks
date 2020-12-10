@@ -4,6 +4,7 @@ Proposal
 Must have features:
 Map that shows users location and automatically shows local book stores based on the users location
 List that shows books users have read and includes the date completed
+Constraints that keep the design consistent throughout different devices and if device is flipped
 
 Nice to have feature:
 Upload images
