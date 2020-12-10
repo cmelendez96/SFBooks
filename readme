@@ -1,6 +1,9 @@
 Christian Melendez
 
 Proposal
+Book Collectors is a simple app that can be used to keep track of all the books that you've read as well as find book stores near you so that you can keep
+reading and building your list!
+
 Must have features:
 Map that shows users location and automatically shows local book stores based on the users location
 List that shows books users have read and includes the date completed
@@ -9,3 +12,12 @@ Constraints that keep the design consistent throughout different devices and if 
 Nice to have feature:
 Upload images
 
+Attributes/Tutorials:
+https://www.youtube.com/watch?v=VZZ76kAdhNA
+https://www.youtube.com/watch?v=4R9DJxjmSCk
+
+Wireframe:
+https://www.figma.com/file/tltFe0mtTFJ9Fo8PrWRHl6/Book-Collector?node-id=0%3A1
+
+Estimated time spent:
+~ 25 - 30 hours
